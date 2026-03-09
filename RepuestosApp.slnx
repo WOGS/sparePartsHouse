@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RepuestosApp.API/RepuestosApp.API.csproj" />
+  <Project Path="RepuestosApp.Application/RepuestosApp.Application.csproj" />
+  <Project Path="RepuestosApp.Domain/RepuestosApp.Domain.csproj" />
+  <Project Path="RepuestosApp.Infrastructure/RepuestosApp.Infrastructure.csproj" />
+</Solution>
