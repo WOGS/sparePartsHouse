@@ -1,0 +1,6 @@
+@RepuestosApp.API_HostAddress = http://localhost:5153
+
+GET {{RepuestosApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
